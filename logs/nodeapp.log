@@ -1,0 +1,9 @@
+{"appName":"NodeApp","appVersion":"1.0.0","environment":"development","level":"info","message":"Application started","pid":112303,"port":3000,"timestamp":"2025-06-18T11:35:43.022Z"}
+{"ip":"::1","level":"info","message":"Incoming request","method":"GET","timestamp":"2025-06-18T11:36:10.737Z","url":"/","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"level":"info","message":"Home page accessed","timestamp":"2025-06-18T11:36:10.743Z"}
+{"duration":"64ms","level":"info","message":"Request completed","method":"GET","statusCode":200,"timestamp":"2025-06-18T11:36:10.798Z","url":"/"}
+{"ip":"::1","level":"info","message":"Incoming request","method":"GET","timestamp":"2025-06-18T11:36:16.231Z","url":"/health","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":"17ms","level":"info","message":"Request completed","method":"GET","statusCode":200,"timestamp":"2025-06-18T11:36:16.248Z","url":"/health"}
+{"ip":"::1","level":"info","message":"Incoming request","method":"GET","timestamp":"2025-06-18T11:36:23.104Z","url":"/adsad","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"level":"warn","message":"404 - Route not found","method":"GET","timestamp":"2025-06-18T11:36:23.113Z","url":"/"}
+{"duration":"23ms","level":"info","message":"Request completed","method":"GET","statusCode":404,"timestamp":"2025-06-18T11:36:23.126Z","url":"/"}
